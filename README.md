@@ -1,0 +1,2 @@
+# Xconnext
+Description: The project is mainly designed on an IOT based Android Application named as ‘Xconnext’. The scope of our project is to solve the difficulties that is being faced by the users while presenting. It is really hard to carry a laptop all the time for presenting anything. And also, the user needs to operate the device constantly from the same place. This problem can be solved using our system ‘Xconnext’ which allows the user to connect with a projector over Wi-Fi.
